@@ -52,7 +52,7 @@ int main() {
         scanf("%d", &opcion);
         fflush(stdin);
 
-    } while (opcion == 1);
+    } while (opcion == 1);                                                      //Repetimos el proceso mientras el usuario quiera seguir cargando tareas
 
     // 2. Transferencia de tareas realizadas
     do {
